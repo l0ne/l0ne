@@ -68,6 +68,4 @@ I make complicated things simple by solving complex problems quickly and with hi
 
 ---
 
-*Tip: All icons and badges can be further customized with different themes. Enjoy coding and showcasing your work!*
-
 Happy coding!
